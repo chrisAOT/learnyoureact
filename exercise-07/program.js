@@ -10,7 +10,6 @@ require('babel/register')({
     ignore: false
 });
 
-// write below
 const data = [
     {title: "Shopping", detail: process.argv[3]},
     {title: "Hair cut", detail: process.argv[4]}
