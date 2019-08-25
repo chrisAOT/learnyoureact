@@ -1,5 +1,6 @@
 const React = require('react')
 const ReactDOMServer = require('react-dom/server')
+
 const DOM = React.DOM
 const body = DOM.body
 const div = DOM.div
